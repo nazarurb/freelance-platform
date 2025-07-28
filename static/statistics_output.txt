@@ -1,0 +1,49 @@
+Numerical Statistics:
+
+1. Number of Requests:
+   - Total: 2
+   - Trend: Decreasing (from 3 to 2)
+
+2. Budget Distribution:
+   - Min: $450
+   - Max: $650
+   - Median: $525
+
+3. Category Distribution:
+   - Data Engineering: 1 (50%)
+   - Data Analytics: 1 (50%)
+
+4. Keyword Frequency:
+   - Data Engineering: 10
+   - Data Analytics: 5
+   - Python: 8
+   - SQL: 7
+   - ETL: 6
+   - AWS: 5
+   - Git: 4
+   - Docker: 3
+   - Data Entry: 2
+   - Data Analysis: 2
+
+5. Average Competition:
+   - Data Engineering: 1.5 (assuming 1 application per request)
+   - Data Analytics: 1 (assuming 1 application per request)
+
+---
+
+Summary:
+
+- The number of job requests has decreased from 3 to 2, indicating a trend of fewer opportunities in the data engineering and analytics sectors.
+- The budgets range from $450 to $650, with a median of $525, suggesting a moderate budget allocation for these roles.
+- Data Engineering and Data Analytics are equally represented, accounting for 50% of the requests each.
+- Python, SQL, ETL, AWS, and Git are the most frequently requested skills, indicating a strong preference for these technologies.
+- The average competition per request is 1.5 for Data Engineering and 1 for Data Analytics, suggesting a relatively low level of competition for these roles.
+
+---
+
+Key Findings:
+
+- There is a decrease in the number of job requests, which might reflect a slowdown in demand for data engineering and analytics professionals.
+- The budgets are moderate, with a slight preference for Data Engineering roles.
+- Python, SQL, ETL, AWS, and Git are the most sought-after skills, highlighting the importance of these technologies in the data engineering and analytics landscape.
+- The average competition is low, implying that candidates may have fewer competitors for these roles.
